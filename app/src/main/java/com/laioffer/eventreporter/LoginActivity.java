@@ -1,5 +1,6 @@
 package com.laioffer.eventreporter;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -70,6 +71,10 @@ public class LoginActivity extends AppCompatActivity {
                     public void onDataChange(DataSnapshot dataSnapshot) {
                         if (dataSnapshot.hasChild(username) && (password.equals(dataSnapshot.child(username).child("password").getValue()))) {
                             Log.i( " Your log", "You successfully login");
+                            Intent intent = new Intent(LoginActivity.this, EventActivity.class);
+                            Utils.username = username;
+                            startActivity(intent);
+
                         } else {
                             Toast.makeText(getBaseContext(),"Please login again", Toast.LENGTH_SHORT).show();
                         }
