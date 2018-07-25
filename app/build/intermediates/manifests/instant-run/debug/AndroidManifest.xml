@@ -55,8 +55,11 @@
         <activity
             android:name="com.laioffer.eventreporter.EventReportActivity"
             android:screenOrientation="portrait"
-            android:windowSoftInputMode="stateVisible|adjustResize" >
-        </activity>
+            android:windowSoftInputMode="stateVisible|adjustResize" />
+        <activity
+            android:name="com.laioffer.eventreporter.CommentActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustResize" />
         <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"

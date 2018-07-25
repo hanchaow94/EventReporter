@@ -65,6 +65,7 @@ public class Event {
     private long time;
     private String username;
     private String imgUri;
+    private int CommentNumber;
 
     public Event() {}
 
@@ -84,4 +85,5 @@ public class Event {
     public String getTitle() { return this.title; }
     public String getAddress() { return this.address; }
     public String getDescription() { return this.description; }
+    public int getCommentNumber() { return CommentNumber; }
 }
