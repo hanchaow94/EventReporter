@@ -12,6 +12,7 @@ MERGED from [com.google.firebase:firebase-storage:11.8.0] /Users/wanghanchao/.gr
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/bd887ad2720f267763235ada01928443/AndroidManifest.xml:17:1-32:12
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24cb46652227e87094adc4b3ac9d9f5f/AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/e0bb791c66ecd997514061364b74653c/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/a25b21d5eba3298ad9be9b1367ceb648/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/77cf592a2866b28c038c9a6df64f3b16/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa0d1a832ee0002ee2a53fc7afd3fd58/AndroidManifest.xml:17:1-54:12
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/301376b5621de2bc4171b305bd8c0e07/AndroidManifest.xml:17:1-40:12
@@ -20,6 +21,9 @@ MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/wanghanchao/.gra
 MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/104a35bd0f5f8e3ad617d5863b8c78ea/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d8ae5911cc243bbc326620164ceab0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/2287c73346302b539b637d577c71c6b1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/e16e8f51f187ed710eaa761195ce524e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bf2eb49b625cd6ecbeae99f51d45a730/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f7bcde91a649e171b54f766b9f82b39a/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/e03add0ad579797c62b891362a32fcd8/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/ddbc2ffe63b63580bfad228214d8a423/AndroidManifest.xml:17:1-22:12
@@ -57,7 +61,10 @@ MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/wanghanc
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/cacb25bb797a52d2ca759396d6a687ed/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/75e353542d52927ad8d16e126d3cb1f9/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/af8a6b3bff622827fd5b9e5c130df5a9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/409da12b4ac6b15deb7932042cb2591a/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3a6cef959621f5261009fd5202242a81/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/5acd27c99ecc565ceac60764be113550/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/c365c84e950ca2e7840457361628ed65/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/fdf9b67007cd2b86a09c526069f494f0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/455be6c9f3f53a3a0ed28884008f526d/AndroidManifest.xml:2:1-6:12
 INJECTED from /Users/wanghanchao/AndroidStudioProjects/EventReporter/app/src/main/AndroidManifest.xml:2:1-45:12
@@ -93,6 +100,8 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/wanghanc
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/301376b5621de2bc4171b305bd8c0e07/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/a509f3d74a997b21877b8dd530db5d0c/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/a509f3d74a997b21877b8dd530db5d0c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /Users/wanghanchao/AndroidStudioProjects/EventReporter/app/src/main/AndroidManifest.xml:7:22-64
 uses-feature#android.hardware.location.gps
@@ -109,6 +118,8 @@ MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/wanghanchao/.gradl
 MERGED from [com.google.firebase:firebase-auth:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.8.0.aar/bd887ad2720f267763235ada01928443/AndroidManifest.xml:22:5-30:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24cb46652227e87094adc4b3ac9d9f5f/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24cb46652227e87094adc4b3ac9d9f5f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/a25b21d5eba3298ad9be9b1367ceb648/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/a25b21d5eba3298ad9be9b1367ceb648/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/77cf592a2866b28c038c9a6df64f3b16/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/77cf592a2866b28c038c9a6df64f3b16/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa0d1a832ee0002ee2a53fc7afd3fd58/AndroidManifest.xml:27:5-52:19
@@ -123,6 +134,10 @@ MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/wanghancha
 MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/104a35bd0f5f8e3ad617d5863b8c78ea/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d8ae5911cc243bbc326620164ceab0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d8ae5911cc243bbc326620164ceab0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bf2eb49b625cd6ecbeae99f51d45a730/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bf2eb49b625cd6ecbeae99f51d45a730/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f7bcde91a649e171b54f766b9f82b39a/AndroidManifest.xml:22:5-26:19
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f7bcde91a649e171b54f766b9f82b39a/AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/f63461332f2a07f72b3ed6684b05a373/AndroidManifest.xml:22:5-94
@@ -149,8 +164,14 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/wa
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/75e353542d52927ad8d16e126d3cb1f9/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/af8a6b3bff622827fd5b9e5c130df5a9/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/af8a6b3bff622827fd5b9e5c130df5a9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/409da12b4ac6b15deb7932042cb2591a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/409da12b4ac6b15deb7932042cb2591a/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3a6cef959621f5261009fd5202242a81/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3a6cef959621f5261009fd5202242a81/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/5acd27c99ecc565ceac60764be113550/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/5acd27c99ecc565ceac60764be113550/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/c365c84e950ca2e7840457361628ed65/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/c365c84e950ca2e7840457361628ed65/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/fdf9b67007cd2b86a09c526069f494f0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/fdf9b67007cd2b86a09c526069f494f0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/455be6c9f3f53a3a0ed28884008f526d/AndroidManifest.xml:5:5-20
@@ -231,6 +252,8 @@ MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wanghanchao/.gra
 MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/24cb46652227e87094adc4b3ac9d9f5f/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/e0bb791c66ecd997514061364b74653c/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.8.0.aar/e0bb791c66ecd997514061364b74653c/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/a25b21d5eba3298ad9be9b1367ceb648/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/a25b21d5eba3298ad9be9b1367ceb648/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/77cf592a2866b28c038c9a6df64f3b16/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/77cf592a2866b28c038c9a6df64f3b16/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa0d1a832ee0002ee2a53fc7afd3fd58/AndroidManifest.xml:20:5-44
@@ -247,6 +270,12 @@ MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/wanghanch
 MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/78d8ae5911cc243bbc326620164ceab0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/2287c73346302b539b637d577c71c6b1/AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-storage-common:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.8.0.aar/2287c73346302b539b637d577c71c6b1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/e16e8f51f187ed710eaa761195ce524e/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/e16e8f51f187ed710eaa761195ce524e/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bf2eb49b625cd6ecbeae99f51d45a730/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bf2eb49b625cd6ecbeae99f51d45a730/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f7bcde91a649e171b54f766b9f82b39a/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f7bcde91a649e171b54f766b9f82b39a/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0-alpha3] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0-alpha3.aar/e03add0ad579797c62b891362a32fcd8/AndroidManifest.xml:20:5-44
@@ -321,14 +350,22 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/wa
 MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/75e353542d52927ad8d16e126d3cb1f9/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/af8a6b3bff622827fd5b9e5c130df5a9/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-license-11.8.0.aar/af8a6b3bff622827fd5b9e5c130df5a9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/409da12b4ac6b15deb7932042cb2591a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/409da12b4ac6b15deb7932042cb2591a/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3a6cef959621f5261009fd5202242a81/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3a6cef959621f5261009fd5202242a81/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/5acd27c99ecc565ceac60764be113550/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/5acd27c99ecc565ceac60764be113550/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/c365c84e950ca2e7840457361628ed65/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/c365c84e950ca2e7840457361628ed65/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/fdf9b67007cd2b86a09c526069f494f0/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/fdf9b67007cd2b86a09c526069f494f0/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/455be6c9f3f53a3a0ed28884008f526d/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/455be6c9f3f53a3a0ed28884008f526d/AndroidManifest.xml:4:5-43
 INJECTED from /Users/wanghanchao/AndroidStudioProjects/EventReporter/app/src/main/AndroidManifest.xml
 INJECTED from /Users/wanghanchao/AndroidStudioProjects/EventReporter/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/e16e8f51f187ed710eaa761195ce524e/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from /Users/wanghanchao/AndroidStudioProjects/EventReporter/app/src/main/AndroidManifest.xml
 		ADDED from /Users/wanghanchao/AndroidStudioProjects/EventReporter/app/src/main/AndroidManifest.xml
@@ -363,6 +400,8 @@ MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/wanghanc
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/301376b5621de2bc4171b305bd8c0e07/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/a509f3d74a997b21877b8dd530db5d0c/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/a509f3d74a997b21877b8dd530db5d0c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/aa0d1a832ee0002ee2a53fc7afd3fd58/AndroidManifest.xml:24:22-76
 uses-permission#android.permission.WAKE_LOCK
@@ -499,6 +538,16 @@ ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/wanghanchao
 		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/104a35bd0f5f8e3ad617d5863b8c78ea/AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/104a35bd0f5f8e3ad617d5863b8c78ea/AndroidManifest.xml:24:13-79
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/d7a5172bb3c4537614f570801f31ef60/AndroidManifest.xml:30:13-65
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/wanghanchao/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/f7bcde91a649e171b54f766b9f82b39a/AndroidManifest.xml:23:9-25:69
 	android:value
