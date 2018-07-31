@@ -1,4 +1,4 @@
-#Mon Jul 30 16:49:53 PDT 2018
-base.0=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/5
+#Tue Jul 31 16:20:55 PDT 2018
+base.0=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/22
 path.0=classes.dex
 renamed.0=classes.dex

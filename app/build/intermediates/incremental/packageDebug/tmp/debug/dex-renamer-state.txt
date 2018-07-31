@@ -1,4 +1,4 @@
-#Mon Jul 30 16:49:54 PDT 2018
+#Tue Jul 31 16:20:56 PDT 2018
 path.3=classes.dex
 path.2=classes.dex
 path.1=classes.dex
@@ -7,7 +7,7 @@ renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.3=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/13
-base.2=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/12
-base.1=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/14
-base.0=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/11
+base.3=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/30
+base.2=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/29
+base.1=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/28
+base.0=/Users/wanghanchao/AndroidStudioProjects/EventReporter/app/build/intermediates/transforms/dexMerger/debug/31

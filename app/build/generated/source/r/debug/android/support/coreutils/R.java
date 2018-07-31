@@ -65,34 +65,34 @@ public final class R {
         public static final int notify_panel_notification_icon_bg = 0x7f07008e;
     }
     public static final class id {
-        public static final int action_container = 0x7f08000e;
-        public static final int action_divider = 0x7f080010;
-        public static final int action_image = 0x7f080013;
-        public static final int action_text = 0x7f080019;
-        public static final int actions = 0x7f08001a;
-        public static final int async = 0x7f080029;
-        public static final int blocking = 0x7f08002d;
-        public static final int chronometer = 0x7f080036;
-        public static final int forever = 0x7f08007f;
-        public static final int icon = 0x7f080087;
-        public static final int icon_group = 0x7f080088;
-        public static final int info = 0x7f080091;
-        public static final int italic = 0x7f080093;
-        public static final int line1 = 0x7f080098;
-        public static final int line3 = 0x7f080099;
-        public static final int normal = 0x7f0800a6;
-        public static final int notification_background = 0x7f0800a7;
-        public static final int notification_main_column = 0x7f0800a8;
-        public static final int notification_main_column_container = 0x7f0800a9;
-        public static final int right_icon = 0x7f0800b8;
-        public static final int right_side = 0x7f0800b9;
-        public static final int tag_transition_group = 0x7f0800e5;
-        public static final int tag_unhandled_key_event_manager = 0x7f0800e6;
-        public static final int tag_unhandled_key_listeners = 0x7f0800e7;
-        public static final int text = 0x7f0800e9;
-        public static final int text2 = 0x7f0800ea;
-        public static final int time = 0x7f0800f0;
-        public static final int title = 0x7f0800f1;
+        public static final int action_container = 0x7f08000f;
+        public static final int action_divider = 0x7f080011;
+        public static final int action_image = 0x7f080014;
+        public static final int action_text = 0x7f08001a;
+        public static final int actions = 0x7f08001b;
+        public static final int async = 0x7f08002a;
+        public static final int blocking = 0x7f08002e;
+        public static final int chronometer = 0x7f080037;
+        public static final int forever = 0x7f080080;
+        public static final int icon = 0x7f080088;
+        public static final int icon_group = 0x7f080089;
+        public static final int info = 0x7f080092;
+        public static final int italic = 0x7f080094;
+        public static final int line1 = 0x7f080099;
+        public static final int line3 = 0x7f08009a;
+        public static final int normal = 0x7f0800a7;
+        public static final int notification_background = 0x7f0800a8;
+        public static final int notification_main_column = 0x7f0800a9;
+        public static final int notification_main_column_container = 0x7f0800aa;
+        public static final int right_icon = 0x7f0800b9;
+        public static final int right_side = 0x7f0800ba;
+        public static final int tag_transition_group = 0x7f0800e6;
+        public static final int tag_unhandled_key_event_manager = 0x7f0800e7;
+        public static final int tag_unhandled_key_listeners = 0x7f0800e8;
+        public static final int text = 0x7f0800ea;
+        public static final int text2 = 0x7f0800eb;
+        public static final int time = 0x7f0800f1;
+        public static final int title = 0x7f0800f2;
     }
     public static final class integer {
         public static final int status_bar_notification_info_maxnum = 0x7f09000a;
@@ -106,7 +106,7 @@ public final class R {
         public static final int notification_template_part_time = 0x7f0a0048;
     }
     public static final class string {
-        public static final int status_bar_notification_info_overflow = 0x7f0d0055;
+        public static final int status_bar_notification_info_overflow = 0x7f0d0056;
     }
     public static final class style {
         public static final int TextAppearance_Compat_Notification = 0x7f0e00f6;
