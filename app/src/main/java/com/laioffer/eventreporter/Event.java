@@ -66,6 +66,8 @@ public class Event {
     private String username;
     private String imgUri;
     private int CommentNumber;
+    private double latitude;
+    private double longitude;
 
     public Event() {}
 
@@ -82,6 +84,21 @@ public class Event {
     /**
      * Getters for private attributes of Event class.
      */
+    public double getLatitude() {
+        return latitude;
+    }
+
+    public void setLatitude(double latitude) {
+        this.latitude = latitude;
+    }
+
+    public double getLongitude() {
+        return longitude;
+    }
+
+    public void setLongitude(double longitude) {
+        this.longitude = longitude;
+    }
     public String getTitle() { return this.title; }
     public String getAddress() { return this.address; }
     public String getDescription() { return this.description; }
